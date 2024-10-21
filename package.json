@@ -1,0 +1,16 @@
+{
+  "name": "home_work_3",
+  "version": "1.0.0",
+  "description": "server_express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "fs": "^0.0.1-security"
+  }
+}
